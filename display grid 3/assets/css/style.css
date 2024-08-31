@@ -1,0 +1,117 @@
+.head{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1.2fr 1fr 1fr 1fr;
+}
+
+.main1{
+    height: 100vh;
+}
+
+.main2{
+    height: 100vh;
+}
+
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 80%;
+    font-size: larger;
+    height: 30vh;
+
+}
+.img1{
+    height: 25vh;
+    background-image: url(../media/neww.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.red1{
+    background-color: rgb(203, 3, 3);
+    height: 3vh;
+    width: 28%;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 2px;
+}
+
+.para1{
+  width: 83%;
+  padding-left: 53px;
+}
+.one{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    margin-top: -15px;
+}
+.main3{
+    height: 100vh;
+}
+
+.two{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    margin-top: 24px;
+    width: 75%;
+    padding-left: 40px;
+}
+.img2{
+    height: 25vh;
+    background-image: url(../media/newww.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 30px;
+    height: 26vh;
+}
+
+.red2{
+    background-color: rgb(203, 3, 3);
+    height: 2.5vh;
+    width: 23%;
+    margin-top:-5px;
+    margin-left: 41.5px;
+}
+
+.para3{
+    width: 73%;
+    padding-left: 53px;
+  }
+
+.main4{
+    height: 100vh;
+}
+
+.four{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    width: 80%;
+}
+
+.paral{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+}
+
+.huh{
+    font-size: x-small;
+    margin-top: -13px;
+}
+
+.img3{
+    height: 45vh;
+    width: 100%;
+    background-image: url(../media/ajeeb.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.red3{
+    background-color: rgb(203, 3, 3);
+    height: 2.5vh;
+    width: 23%;
+    margin-left: 229px;
+
+}
